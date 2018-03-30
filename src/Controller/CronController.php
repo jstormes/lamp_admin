@@ -11,4 +11,9 @@ namespace JStormes\lamp\Controller;
 class CronController
 {
 
+    public function __construct()
+    {
+
+    }
+
 }
